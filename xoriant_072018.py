@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-## 
+## https://github.com/alieksanov/homework/blob/master/xoriant_072018.py
 
 # Task 1
 print("Task 1\n")
