@@ -67,8 +67,3 @@ true, "foo", // 3rd comment
 }"""
 
 print(strip_comments(d))
-
-
-
-
-
